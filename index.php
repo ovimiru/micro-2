@@ -1,2 +1,2 @@
 <?php
-return '5';
+echo '5';
