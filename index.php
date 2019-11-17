@@ -1,2 +1,2 @@
 <?php
-return 'Test  test';
+return '5';
